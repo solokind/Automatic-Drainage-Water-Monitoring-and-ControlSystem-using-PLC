@@ -1,0 +1,2 @@
+# Automatic-Drainage-Water-Monitoring-and-ControlSystem-using-PLC
+"Automatic Drainage Water Monitoring &amp; Control System using PLC" aligns with modern automation trends to ensure effective water level management, gas detection, and drainage system control. Literature surveys emphasize the importance of automating drainage systems to prevent overflows, monitor hazardous gases, and ensure operational safety.
